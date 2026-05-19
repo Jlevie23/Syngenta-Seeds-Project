@@ -1,0 +1,64 @@
+row,column,issue_type,detail
+14,vendor,NULL,Missing value in 'vendor'
+38,vendor,NULL,Missing value in 'vendor'
+49,vendor,NULL,Missing value in 'vendor'
+63,vendor,NULL,Missing value in 'vendor'
+72,vendor,NULL,Missing value in 'vendor'
+83,vendor,NULL,Missing value in 'vendor'
+134,vendor,NULL,Missing value in 'vendor'
+200,vendor,NULL,Missing value in 'vendor'
+60,result_value,NULL,Missing value in 'result_value'
+72,result_value,NULL,Missing value in 'result_value'
+94,result_value,NULL,Missing value in 'result_value'
+117,result_value,NULL,Missing value in 'result_value'
+119,result_value,NULL,Missing value in 'result_value'
+123,result_value,NULL,Missing value in 'result_value'
+166,result_value,NULL,Missing value in 'result_value'
+180,result_value,NULL,Missing value in 'result_value'
+7,status,NULL,Missing value in 'status'
+16,status,NULL,Missing value in 'status'
+117,status,NULL,Missing value in 'status'
+128,status,NULL,Missing value in 'status'
+172,status,NULL,Missing value in 'status'
+186,status,NULL,Missing value in 'status'
+198,status,NULL,Missing value in 'status'
+19,lot_number,NULL,Missing value in 'lot_number'
+37,lot_number,NULL,Missing value in 'lot_number'
+46,lot_number,NULL,Missing value in 'lot_number'
+91,lot_number,NULL,Missing value in 'lot_number'
+108,lot_number,NULL,Missing value in 'lot_number'
+130,lot_number,NULL,Missing value in 'lot_number'
+146,lot_number,NULL,Missing value in 'lot_number'
+163,lot_number,NULL,Missing value in 'lot_number'
+169,lot_number,NULL,Missing value in 'lot_number'
+177,lot_number,NULL,Missing value in 'lot_number'
+66,ALL,DUPLICATE,Exact duplicate row
+124,ALL,DUPLICATE,Exact duplicate row
+130,ALL,DUPLICATE,Exact duplicate row
+177,ALL,DUPLICATE,Exact duplicate row
+179,ALL,DUPLICATE,Exact duplicate row
+201,ALL,DUPLICATE,Exact duplicate row
+209,ALL,DUPLICATE,Exact duplicate row
+16,result_value,OUT_OF_RANGE,"Value -4.31 outside expected range [50.0, 100.0] for Vigor"
+29,result_value,OUT_OF_RANGE,"Value 113.47 outside expected range [8.0, 14.0] for Moisture"
+34,result_value,OUT_OF_RANGE,"Value -1.68 outside expected range [60.0, 100.0] for Germination"
+47,result_value,OUT_OF_RANGE,"Value -1.45 outside expected range [0.0, 5.0] for Disease Screening"
+93,result_value,OUT_OF_RANGE,"Value 107.65 outside expected range [60.0, 100.0] for Germination"
+120,result_value,OUT_OF_RANGE,"Value -0.56 outside expected range [50.0, 100.0] for Vigor"
+140,result_value,OUT_OF_RANGE,"Value 112.07 outside expected range [95.0, 100.0] for Purity"
+161,result_value,OUT_OF_RANGE,"Value 117.59 outside expected range [8.0, 14.0] for Moisture"
+167,result_value,OUT_OF_RANGE,"Value -4.68 outside expected range [0.0, 5.0] for Disease Screening"
+185,result_value,OUT_OF_RANGE,"Value -3.37 outside expected range [0.0, 5.0] for Disease Screening"
+189,result_value,OUT_OF_RANGE,"Value 106.4 outside expected range [0.0, 5.0] for Disease Screening"
+196,result_value,OUT_OF_RANGE,"Value 102.8 outside expected range [95.0, 100.0] for Purity"
+64,variety,INVALID_VALUE,Unrecognized variety code: 'syn101'
+89,variety,INVALID_VALUE,Unrecognized variety code: 'N/A'
+110,variety,INVALID_VALUE,Unrecognized variety code: 'UNKNOWN'
+173,variety,INVALID_VALUE,Unrecognized variety code: 'SYN-000'
+198,variety,INVALID_VALUE,Unrecognized variety code: '???'
+207,variety,INVALID_VALUE,Unrecognized variety code: 'SYN-999'
+20,sample_date,FORMAT_ERROR,Date not in YYYY-MM-DD format: 'N/A'
+54,sample_date,FORMAT_ERROR,Date not in YYYY-MM-DD format: 'March 2024'
+82,sample_date,FORMAT_ERROR,Date not in YYYY-MM-DD format: '15/03/2024'
+136,sample_date,FORMAT_ERROR,Date not in YYYY-MM-DD format: '15/03/2024'
+150,sample_date,FORMAT_ERROR,Date not in YYYY-MM-DD format: 'N/A'
